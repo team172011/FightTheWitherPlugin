@@ -1,0 +1,8 @@
+name: MySpigotPlugin
+version: 0.1
+main: org.sjwimmer.myspigotplugin.MainClass
+api-version: 1.13
+commands:
+  init:
+    description: gives the player diamond, coal, cobblestone and oak planks
+    usage: /init
